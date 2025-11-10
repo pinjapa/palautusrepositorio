@@ -1,3 +1,4 @@
+#tehtävä 9: git branchit
 from logger import logger
 from summa import summa
 from erotus import erotus
